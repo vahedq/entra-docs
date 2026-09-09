@@ -84,7 +84,7 @@ To configure single sign-on on **Praisidio** side, you need to send the **App Fe
 
 ### Create Praisidio test user
 
-In this section, you create a user called Britta Simon in Praisidio. Work with Praisidio  support team to add the users in the Praisidio platform. Users must be created and activated before you use single sign-on.
+In this section, you create a user called Britta Simon in Praisidio. Work with Praisidio support team to add the users in the Praisidio platform. Users must be created and activated before you use single sign-on.
 
 ## Test SSO 
 
