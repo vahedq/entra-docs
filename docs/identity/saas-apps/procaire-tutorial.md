@@ -80,7 +80,7 @@ Follow these steps to enable Microsoft Entra SSO.
 
 ## Configure Praisidio SSO
 
-To configure single sign-on on **Praisidio** side, you need to send the **App Federation Metadata Url** to Praisidio  support team. They set this setting to have the SAML SSO connection set properly on both sides.
+To configure single sign-on on **Praisidio** side, you need to send the **App Federation Metadata Url** to Praisidio support team. They set this setting to have the SAML SSO connection set properly on both sides.
 
 ### Create Praisidio test user
 
