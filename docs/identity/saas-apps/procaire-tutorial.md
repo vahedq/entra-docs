@@ -50,8 +50,8 @@ To configure and test Microsoft Entra SSO with Praisidio, perform the following 
 1. **[Configure Microsoft Entra SSO](#configure-azure-ad-sso)** - to enable your users to use this feature.
     1. **Create a Microsoft Entra test user** - to test Microsoft Entra single sign-on with B.Simon.
     1. **Assign the Microsoft Entra test user** - to enable B.Simon to use Microsoft Entra single sign-on.
-1. **[Configure Praisidio SSO](#configure-Praisidio-sso)** - to configure the single sign-on settings on application side.
-    1. **[Create Praisidio test user](#create-Praisidio-test-user)** - to have a counterpart of B.Simon in Praisidio that's linked to the Microsoft Entra representation of user.
+1. **[Configure Praisidio SSO](#configure-praisidio-sso)** - to configure the single sign-on settings on application side.
+    1. **[Create Praisidio test user](#create-praisidio-test-user)** - to have a counterpart of B.Simon in Praisidio that's linked to the Microsoft Entra representation of user.
 1. **[Test SSO](#test-sso)** - to verify whether the configuration works.
 
 <a name='configure-azure-ad-sso'></a>
