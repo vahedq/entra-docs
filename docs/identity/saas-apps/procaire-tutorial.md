@@ -9,7 +9,7 @@ ms.date: 05/20/2025
 
 # Configure Praisidio for Single sign-on with Microsoft Entra ID
 
-In this article,  you learn how to integrate Praisidio with Microsoft Entra ID. When you integrate Praisidio with Microsoft Entra ID, you can:
+In this article, you learn how to integrate Praisidio with Microsoft Entra ID. When you integrate Praisidio with Microsoft Entra ID, you can:
 
 * Control in Microsoft Entra ID who has access to Praisidio.
 * Enable your users to be automatically signed-in to Praisidio with their Microsoft Entra accounts.
@@ -23,7 +23,7 @@ The scenario outlined in this article assumes that you already have the followin
 
 ## Scenario description
 
-In this article,  you configure and test Microsoft Entra SSO in a test environment.
+In this article, you configure and test Microsoft Entra SSO in a test environment.
 
 * Praisidio supports **SP and IDP** initiated SSO
 
@@ -39,7 +39,7 @@ To configure the integration of Praisidio into Microsoft Entra ID, you need to a
  Alternatively, you can also use the [Enterprise App Configuration Wizard](https://portal.office.com/AdminPortal/home?Q=Docs#/azureadappintegration). In this wizard, you can add an application to your tenant, add users/groups to the app, assign roles, and walk through the SSO configuration as well. [Learn more about Microsoft 365 wizards.](/microsoft-365/admin/misc/azure-ad-setup-guides)
 
 
-<a name='configure-and-test-azure-ad-sso-for-Praisidio'></a>
+<a name='configure-and-test-azure-ad-sso-for-praisidio'></a>
 
 ## Configure and test Microsoft Entra SSO for Praisidio
 
